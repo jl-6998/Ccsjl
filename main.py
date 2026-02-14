@@ -618,7 +618,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
     welcome_message = (
-        f"🔥 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 | 𝘽𝙪𝙜𝙨 𝐂𝐇𝐄𝐂𝐊𝐄𝐑 𝐁𝐎𝐓! \n\n"
+        f"🔥 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 | J.L Checker Bot! \n\n"
         f"[<a href='https://t.me/CardinghubRoBot'>⌬</a>] 𝘽𝙪𝙜𝙨 𝐂𝐇𝐄𝐂𝐊𝐄𝐑 𝐕1⚡\n"
         "━━━━━━━━━━━━━━━━━━━━\n"
         f"🔥 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐜𝐤 , <a href='tg://user?id={user.id}'>{user.first_name}</a>\n\n"
